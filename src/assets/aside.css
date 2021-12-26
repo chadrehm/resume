@@ -1,0 +1,33 @@
+.aside {
+  display: flex;
+  justify-content: flex-end;
+  width: 20%;
+  color: #fff;
+  background-color: #23415a;
+  position: relative;
+}
+
+.aside--portrait {
+  background-color: #23415a;
+  width: 20%;
+}
+
+.aside > .content {
+  width: 12rem;
+  font-size: .75rem;
+}
+
+.aside > .content > .block {
+  margin-bottom: 1rem;
+}
+
+.aside > .content > .block > .title {
+  font-size: 1rem;
+}
+
+.aside > .content > .block > div > hr {
+  height: .05rem;
+  margin: 0;
+  margin-top: .25rem;
+  background-color: #fff;
+}
