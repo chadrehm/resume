@@ -1,4 +1,4 @@
-import './assets/layout.css';
+import './assets/styles/layout.css';
 import { Portrait } from './components/Portrait';
 import { LeftAside } from './components/LeftAside';
 import { Main, MainHeader } from './components/Main';
